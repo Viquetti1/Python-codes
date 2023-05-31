@@ -1,5 +1,5 @@
 import random as rd
-
+# code still in progress..
 word_list = ["ardvark", "baboon", "camel","florianopolis","paralelepipedo"]
 chosen_word = rd.choice(word_list)
 print(chosen_word)
